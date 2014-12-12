@@ -1,0 +1,4 @@
+spellframework
+==============
+
+The SPELL Framework
