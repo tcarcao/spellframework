@@ -1,7 +1,7 @@
 The SPELL Framework
 ==============
 
-The **SPELL Framework** is a framework that analysis automatically software source code. This framework encloses three separate tools that representate the methodology follow in the :green_book: [dissertation](https://github.com/tcarcao/spellframework/blob/master/spell.pdf) also present in this repo. 
+The **SPELL Framework** is a framework that analysis automatically the energy leaks (anomalous consumption values) of the software's source code. This framework encloses three separate tools that representate the methodology follow in the :green_book: [dissertation](https://github.com/tcarcao/spellframework/blob/master/spell.pdf) also present in this repo. 
 
 This methodology is divided in the three steps that follow:
 
